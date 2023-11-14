@@ -31,10 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/ASHWINKUMAR2903/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119407186/37fa734a-df98-4904-baf2-13ea5bd882dc)
+![282378953-fa970b14-6644-46dc-8050-9c62a3c29fcc](https://github.com/ASHWINKUMAR2903/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119407186/c3b844ea-d42f-4a32-8063-aaaf5beb0ca8)
 
 ### Output:
-![image](https://github.com/ASHWINKUMAR2903/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119407186/6c75439c-8516-4393-b4fd-59cb3192ec02)
+![282378985-bc2e4128-f07b-4e8f-bccd-835e72e49b37](https://github.com/ASHWINKUMAR2903/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119407186/19282b3d-8269-42f0-b7c2-5003058c9c7f)
 
 ### Name: A.ASHWIN KUMAR
 ### Register Number: 212222100006
